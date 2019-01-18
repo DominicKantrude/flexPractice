@@ -1,0 +1,15 @@
+.list {
+    display: flex;
+    flex-direction: row;
+  justify-content: space-around;
+   flex-wrap: wrap; 
+   width: 100%;
+
+    
+} 
+
+.shop {
+    width: 33%;
+    border: 1px solid;
+   
+}
